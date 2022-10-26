@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Html course",
+        "price": "$50",
+        "img": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+    },
+    {
+        "id": "02",
+        "name": "Css course",
+        "price": "$70",
+        "img": "https://media.istockphoto.com/photos/word-css-on-wooden-desk-and-laptop-picture-id1363205770?s=612x612"
+    },
+    {
+        "id": "03",
+        "name": "Javascript course",
+        "price": "$100",
+        "img": "https://thumbs.dreamstime.com/z/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg"
+    },
+    {
+        "id": "04",
+        "name": "React.js course",
+        "price": "$200",
+        "img": "https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png"
+    },
+    {
+        "id": "05",
+        "name": "PHP course",
+        "price": "$120",
+        "img": "https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png"
+    },
+    {
+        "id": "06",
+        "name": "Python course",
+        "price": "$200",
+        "img": "https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"
+    }
+]
