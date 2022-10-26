@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6bd",
+        "category_id": "01",
+        "title": "What Is HTML? Hypertext Markup Language Basics Explained",
+        "name": "Html",
+        "img": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+        "description": "What Is HTML Hypertext Markup Language Basics Explained.What Is HTML? Hypertext Markup Language Basics ExplainedHTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2adb6b",
+        "category_id": "02",
+        "title": "What is css? ",
+        "name": "Css",
+        "img": "https://rehansaeed.com/images/hero/CSS-1600x900.png",
+        "description": "CSS stands for Cascading Style Sheets. It is a style sheet language which is used to describe the look and formatting of a document written in markup language. It provides an additional feature to HTML. It is generally used with HTML to change the style of web pages and user interfaces. It can also be used with any kind of XML documents including plain XML, SVG and XUL.CSS is used along with HTML and JavaScript in most websites to create user interfaces for web applications and user interfaces for many mobile applications."
+    },
+    {
+        "_id": "0282e0e58a5c404dfbd15261f11c2ab6b",
+        "category_id": "03",
+        "title": "",
+        "name": "Javascript",
+        "img": "https://thumbs.dreamstime.com/z/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg",
+        "description": "JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this on Take-Away Skills:You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment"
+    },
+    {
+        "_id": "0282e0e58a5c4d04fbd15261f11c2ab6b",
+        "category_id": "React.js",
+        "title": "What is react",
+        "name": "Html",
+        "img": "https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png",
+        "description": "React’s popularity today has eclipsed that of all other front-end development frameworks. Here is why:Easy creation of dynamic applications: React makes it easier to create dynamic web applications because it requires less coding and offers more functionality, as opposed to JavaScript, where coding often gets complex very quickly.Improved performance: React uses Virtual DOM, thereby creating web applications faster. Virtual DOM compares the components’ previous states and updates only the items in the Real DOM that were changed, instead of updating all of the components again, as conventional web applications do.Reusable components: Components are the building blocks of any React application, and a single app usually consists of multiple components. These components have their logic and controls, and they can be reused throughout the application, which in turn dramatically reduces the application’s development time."
+    },
+    {
+        "_id": "0282e0e58a5c40r4fbd15261f11c2ab6b",
+        "category_id": "05",
+        "title": "How to learn php step by step",
+        "name": "PHP",
+        "img": "https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png",
+        "description": "Learning PHP from the very beginning and creating a simple online store app that works with the MySQL database has an admin panel and performs CURD operations. Also, creating a REST API for this store. All this without the use of Class, OOP, MVC, and frameworks, only using the basic concepts of PHP and combining it with HTML codes."
+    },
+    {
+        "_id": "0282e0e58a5c404sbd15261f11c2ab6b",
+        "category_id": "06",
+        "title": "How to learn Python",
+        "name": "Python",
+        "img": "https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png",
+        "description": "pitfalls to avoid and identify sources of motivation. Well also address the best ways to learn basic syntax and how to get started with real Python projects. Want to skip ahead and begin learning Python the right way? Try our interactive courses. They can take you from complete beginner to job-ready, using actual code in mere months."
+    }
+]
