@@ -8,7 +8,7 @@ app.use(cors())
 
 const category = require('./Data/Category.json')
 const course = require('./Data/cours.json')
-const premium = require('/Data/primium.json')
+const premium = require('./Data/primium.json')
 
 app.get('/', (req, res) => {
     res.send('api running')
@@ -20,7 +20,9 @@ app.get('/course', (req, res) => {
     res.send(course)
 })
 
-
+app.get('/premium', (req, res) => {
+    res.send(premium)
+})
 app.listen(port, () => {
 
     console.log('tik ache')
@@ -32,6 +34,7 @@ app.get('/course/:id', (req, res) => {
     res.send(selected)
 
 })
+
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id
